@@ -159,6 +159,8 @@ Taskly is a company that makes a website to help businesses to stay organized. P
 * **Regular audits** (secure code reviews, external penetration tests).
 * **Continuous monitoring** (SIEM, intrusion detection alerts).
 * **Bug bounty program** to detect vulnerabilities in real-world conditions.
+  
+This allows you to know if the work was done well during creation and after finishing it
 
 # Sources
 
