@@ -60,6 +60,9 @@ WHERE category = '' OR 1=1--' AND released = 1
 ```
 
 so it return all product even those who are not released
+
+
+(you can just change the url with ?category='OR 1=1-- and it works)
  
 
 
