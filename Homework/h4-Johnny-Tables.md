@@ -52,4 +52,15 @@ done it
 
 on the burp suite we put ``` 'OR 1=1--```  instead of ``` Gifts ``` to make everything appear
 
+since the gifts is in the sql command i close it and put or 1=1 to make a true statement and put the rest in comment with '--' 
+so it does 
+```sql
+SELECT * FROM products
+WHERE category = '' OR 1=1--' AND released = 1
+```
+
+so it return all product even those who are not released
+ 
+
+
 ![screenshot E](screenshots/Pasted_image_20250916173614.png)
