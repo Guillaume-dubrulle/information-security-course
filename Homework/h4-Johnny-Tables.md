@@ -36,9 +36,9 @@
 I've installed it
 
 # B)
-![screenshot B](Pasted_image_20250916170332.png)
+![screenshot B](screenshots/Pasted_image_20250916170332.png)
 you used the console to call the function and write the number for the first exercice 
-![screenshotB2](Pasted_image_20250916170523.png)
+![screenshotB2](screenshots/Pasted_image_20250916170523.png)
 and for the second one you do a request and you look at it in the network page 
 # C) 
 done
@@ -52,4 +52,4 @@ done it
 
 on the burp suite we put ``` 'OR 1=1--```  instead of ``` Gifts ``` to make everything appear
 
-![screenshot E](Pasted_image_20250916173614.png)
+![screenshot E](screenshots/Pasted_image_20250916173614.png)
