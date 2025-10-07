@@ -4,3 +4,5 @@
 [[h3-Hello-Lab]]
 [[h4-Johnny-Tables]]
 [[h5-Uryyb-Greb!]]
+[[h6-Going-Dark]]
+[[h7-February2025!]]
