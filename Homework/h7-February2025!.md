@@ -7,5 +7,5 @@
 ![Pasted image 20251007152114.png](screenshots/Pastedimage20251007152114.png)
 i install hashcat and test it on rockyou.txt
 # B)
-![Pastedimage20251007153210.png](Pastedimage20251007153210.png)
+![Pastedimage20251007153210.png](screenshots/Pastedimage20251007153210.png)
 Here i crack the hash "d595b2086532422bbe654bc07ea030df" by putting it in a file and i crack it with hashcat and the rockyou.txt wordlist, then i cat the found.txt fil to show the cracked password (I used the `--potfile-disable` flag in Hashcat to bypass the existing potfile entries and run the cracking commands cleanly from scratch)
